@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Theme Tailwind Example Site</title>
+    <link>https://examnple.com/posts/</link>
+    <description>Recent content in Posts on Hugo Theme Tailwind Example Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Johashhh</copyright>
+    <lastBuildDate>Fri, 29 Dec 2023 13:10:47 +0800</lastBuildDate>
+    <atom:link href="https://examnple.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>112 Spring Courses</title>
+      <link>https://examnple.com/posts/112-spring-courses/</link>
+      <pubDate>Fri, 29 Dec 2023 13:10:47 +0800</pubDate>
+      <guid>https://examnple.com/posts/112-spring-courses/</guid>
+      <description>會打這篇文主要是因為在選課的時候看了很多學長姐寫的心得，帶給我很多幫助，所以打了這篇文紀錄大一上的修課心得，另一個原因是，前面寫心得的人明顯太強了，我覺得需要一點正常學生寫的心得比較有參考價值。&#xA;聽說今年是交大第一次實施16週計畫，將原本18週的課程縮短成16週，但其實很多教授都還是用一樣的教材、一樣的考試範圍 ，最後就變成期中考和期末考幾乎是連在一起的狀況，非常悲劇。&#xA;微積分甲（一） 開課教授：王夏聲&#xA;成績：三次小考各23%, 大會考30%&#xA;課程講義有條理分明 上課很跳 微積分甲（一） 開課教授：王夏聲&#xA;成績：三次小考各23%, 大會考30%&#xA;課程講義有條理分明 上課很跳 </description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://examnple.com/posts/first-post/</link>
+      <pubDate>Fri, 29 Dec 2023 12:24:53 +0800</pubDate>
+      <guid>https://examnple.com/posts/first-post/</guid>
+      <description>微積分甲（一） 基本上就兩個：&#xA;演講 導師晤談 演講的部分前幾次是會邀請四個資工所的所長和系主任演講，後面幾次則是助教本人(?) 和外面的教授的演講。&#xA;導師晤談則是期中期末去找導師聊天，這個部分最困難的是和教授聯絡上，像我就連絡了兩個禮拜才成功。&#xA;上課方式 如果那週有演講會事先公布在 e3 上，準時進去 Microsoft Teams 就好了。助教那邊會自動點名，所以其實直接掛著也沒差。&#xA;考試作業 有兩次小作業，主要就是調查職業徵才和學程主題，大概兩小時可以做完的份量。&#xA;心得 就很一般的生涯規畫課，演講內容還行啦。成績部分，基本上有交作業就不會被當了，反正這是一堂 0 學分的課。</description>
+    </item>
+  </channel>
+</rss>
